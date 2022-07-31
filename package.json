@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/devsrihari4/Cypress-Demo#readme",
   "devDependencies": {
-    "cypress": "^9.5.0",
+    "cypress": "^10.3.1",
     "cypress-cucumber-preprocessor": "^4.1.4"
   },
   "cypress-cucumber-preprocessor": {
